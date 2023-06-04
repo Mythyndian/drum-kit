@@ -7,7 +7,7 @@ Clone the repository and enjoy your very own virtual drum kit.
 
 ## Demo
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/drum-kit-demo.png?raw=true)
+![alt text](https://github.com/Mythyndian/drum-kit/blob/main/drum-kit-demo.png?raw=true)
 
 ## Contributing
 
